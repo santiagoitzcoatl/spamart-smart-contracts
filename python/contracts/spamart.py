@@ -105,7 +105,7 @@ class FA2(sp.Contract):
             "homepage": "https://spamart.org",
             "source": {
                 "tools": ["SmartPy 0.9.1"],
-                "location": "https://github.com/teia-community/teia-smart-contracts/blob/main/python/contracts/fa2.py"
+                "location": "https://github.com/santiagoitzcoatl/spamart-smart-contracts/blob/main/python/contracts/spamart.py"
             },
             "interfaces": ["TZIP-012", "TZIP-016"],
             "views": [
